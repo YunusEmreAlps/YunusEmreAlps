@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋
+<br/>
 
-<!--
-**YunusEmreAlps/YunusEmreAlps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I solve problems in creative ways. At Konya NEU, where I am completing my junior year in the College of Engineering, I have learned the importance of applying classical strategies to modern-day projects.Software engineering is never ending puzzle that I am passionately in solving. This passion carried me through my education purdue.
 
-Here are some ideas to get you started:
+> ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FYunusEmreAlps.YunusEmreAlps%2Freadme)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🙋‍♂️ Pronouns: He/him
+
+![YunusEmreAlps's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunusEmreAlps&show_icons=true)
+
+## 📫 How to reach me
+
+You can find and get touch with me on these accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/YunusEmreAlpu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yunus-emre-alpu-5b1496151/?originalSubdomain=tr)
+
+[![Gmail Badge](https://img.shields.io/badge/YunusEmreAlpu-Contact%20me%20gmail-red?style=for-the-badge&logo=gmail)](mailto:yunus192alpu@gmail.com)
+
+[![Medium Badge](https://img.shields.io/badge/YunusEmreAlpu-follow%20on%20medium-green?style=for-the-badge&logo=medium)](https://medium.com/@yunus192alpu)
