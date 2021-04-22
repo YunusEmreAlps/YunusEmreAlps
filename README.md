@@ -18,3 +18,5 @@ You can find and get touch with me on these accounts!
 [![Gmail Badge](https://img.shields.io/badge/YunusEmreAlpu-Contact%20me%20gmail-red?style=for-the-badge&logo=gmail)](mailto:yunus192alpu@gmail.com)
 
 [![Medium Badge](https://img.shields.io/badge/YunusEmreAlpu-follow%20on%20medium-green?style=for-the-badge&logo=medium)](https://medium.com/@yunus192alpu)
+
+[![Spotify](https://novatorem-yunusemrealps.vercel.app/api/spotify)](https://open.spotify.com/user/3z2nblq2ivgg0nicbqsn2d?si=liyl_jkjsx2ruqks3p50kg)
