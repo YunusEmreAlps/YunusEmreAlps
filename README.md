@@ -19,4 +19,3 @@ You can find and get touch with me on these accounts!
 
 [![Medium Badge](https://img.shields.io/badge/YunusEmreAlpu-follow%20on%20medium-green?style=for-the-badge&logo=medium)](https://medium.com/@yunus192alpu)
 
-[<img src="https://novatorem-yunusemrealps.vercel.app/api/spotify-playing" alt="Yunus Emre Alpu Spotify Playing" width="350" />](https://open.spotify.com/user/njyreyw7hmqlbaza020l9sapg)
