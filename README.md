@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://yunusemrealpu.netlify.app/">
-    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> </a> 
+    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/YunusEmreAlps" alt="No Brakes"  width="550"/>   
   </a>
 </p>
 
@@ -59,7 +59,7 @@ Talk to me about:
 - Music ([spotify](https://open.spotify.com/user/njyreyw7hmqlbaza020l9sapg))
 - Nutrition
 - Nature
-## Hello World!! 🤔
+## No Brakes!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Popular Tech Talks](http://populartechtalks.herokuapp.com/).
 - 🎯 Portfolio site: [Portfolio](https://yunusemrealpu.netlify.app/).
