@@ -37,14 +37,14 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 
 ## 👯 Communities
 * DSC Member.
-* Mentee at FindMentor
+* [Mentee & Mentor](https://findmentor.network/peer/yunus-emre-alpu) at Find Mentor
 * Member at Üretken Akademi & Mentornity.
 * Member at Solutions Challenge Incubation Program (Touch App)
 * Volunteer at T3 Vakfı.
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, React, Vue**.
-- Backend development using **PHP, Node.JS, Django**.
+- Backend development using **PHP, Node.JS, Django(Still learning)**.
 - Making for **Relational Database Management Systems**.
 - Desktop application development using **Flutter** (Still learning).
 - Mobile application development using **Flutter, React Native, Xamarin and Android**(Still learning).
