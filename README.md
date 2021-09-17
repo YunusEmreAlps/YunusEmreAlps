@@ -1,9 +1,11 @@
 # Hi, I'm Yunus Emre Alpu
 
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FYunusEmreAlps.YunusEmreAlps%2Freadme)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <p align="center">
   <a href="https://yunusemrealpu.netlify.app/">
-    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/YunusEmreAlps" alt="No Brakes"  width="550"/>   
+    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/YunusEmreAlps" alt="No Brakes"  width="550"/> 
   </a>
 </p>
 
@@ -28,9 +30,8 @@
 I solve problems in creative ways. At Konya NEU, where I am completing my junior year in the College of Engineering, I have learned the importance of applying classical strategies to modern-day projects.Software engineering is never ending puzzle that I am passionately in solving. This passion carried me through my education purdue.
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunusEmreAlps&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <br />
+  <img width="" src="https://github-readme-streak-stats.herokuapp.com/?user=YunusEmreAlps" alt="YunusEmreAlps's GitHub Streak" />
+  <br>
 </div>
 
 A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
@@ -66,5 +67,3 @@ Talk to me about:
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![YunusEmreAlps's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunusEmreAlps&hide=["issues"]&show_icons=true)
-
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FYunusEmreAlps.YunusEmreAlps%2Freadme)
