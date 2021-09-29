@@ -45,10 +45,10 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, React, Vue**.
-- Backend development using **PHP, Node.JS, Django(Still learning)**.
+- Backend development using **PHP, Node.JS & Django(Still learning)**.
 - Making for **Relational Database Management Systems**.
 - Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter, React Native, Xamarin and Android**(Still learning).
+- Mobile application development using **Flutter, React Native, Android**(Still learning).
 - Creating scalable cloud architecture using **AWS Cloud, Heroku, Netlify**.
 - Solving Data structure and algorithm questions in **C, Java and Python**.
 ## 🧡 My passions
