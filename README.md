@@ -45,12 +45,13 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, React, Vue**.
-- Backend development using **PHP, Node.JS & Django(Still learning)**.
+- Backend development using **PHP, Node.JS(Still learning)**.
 - Making for **Relational Database Management Systems**.
 - Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter, React Native, Android**(Still learning).
-- Creating scalable cloud architecture using **AWS Cloud, Heroku, Netlify**.
+- Mobile application development using **Flutter, React Native & Android**(Still learning).
+- Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **C, Java and Python**.
+- I use this technologies **Heroku, Netlify**
 ## 🧡 My passions
 - Technology and Software
 - Science 
@@ -66,4 +67,11 @@ Talk to me about:
 - 🎯 Portfolio site: [Portfolio](https://yunusemrealpu.netlify.app/).
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![YunusEmreAlps's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunusEmreAlps&hide=["issues"]&show_icons=true)
+## 📈 Github Stats
+
+<a href="https://github.com/YunusEmreAlps/YunusEmreAlps">
+ <img alt="Yunus-Emre-Alpu's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=YunusEmreAlps&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
+<a href="https://github.com/YunusEmreAlps/YunusEmreAlps">
+ <img alt="Yunus-Emre-Alpu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunusEmreAlps&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+ </a>
