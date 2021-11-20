@@ -67,6 +67,18 @@ Talk to me about:
 - 🎯 Portfolio site: [Portfolio](https://yunusemrealpu.netlify.app/).
 - ⚡ Fun fact: Internet users blink less than usual.
 
+```bash 
+(When Everything Goes Wrong, Remember These)
+You got a dream?
+You gotta protect it.
+
+People can’t do something themselves, they want to tell you you can’t do it.
+
+You want something?
+Go get it!
+Period!
+``` 
+
 ## 📈 Github Stats
 
 <a href="https://github.com/YunusEmreAlps/YunusEmreAlps">
