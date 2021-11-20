@@ -75,3 +75,8 @@ Talk to me about:
 <a href="https://github.com/YunusEmreAlps/YunusEmreAlps">
  <img alt="Yunus-Emre-Alpu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunusEmreAlps&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
  </a>
+ 
+ <div align="center">
+  <img width="100%" src="https://c.tenor.com/uWmDvE9-__IAAAAd/the-pursuit-of-happiness-will-smith.gif" alt="Life" />
+  <br>
+</div>
