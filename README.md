@@ -49,9 +49,9 @@ Talk to me about:
 - Making for **Relational Database Management Systems**.
 - Desktop application development using **Flutter** (Still learning).
 - Mobile application development using **Flutter, React Native & Android**(Still learning).
-- Creating scalable cloud architecture using **AWS Cloud**.
+- Creating scalable cloud architecture using **AWS Cloud**.(Still learning)
 - Solving Data structure and algorithm questions in **C, Java and Python**.
-- I use this technologies **Heroku, Netlify**
+- I use this technologies **MongoDB, AWS Cloud, Heroku, Netlify**
 ## 🧡 My passions
 - Technology and Software
 - Science 
@@ -66,18 +66,6 @@ Talk to me about:
 - 📫 Read my blogs: [Popular Tech Talks](http://populartechtalks.herokuapp.com/).
 - 🎯 Portfolio site: [Portfolio](https://yunusemrealpu.netlify.app/).
 - ⚡ Fun fact: Internet users blink less than usual.
-
-```bash 
-(When Everything Goes Wrong, Remember These)
-You got a dream?
-You gotta protect it.
-
-People can’t do something themselves, they want to tell you you can’t do it.
-
-You want something?
-Go get it!
-Period!
-``` 
 
 ## 📈 Github Stats
 
