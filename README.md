@@ -44,12 +44,12 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 * Volunteer at T3 Vakfı.
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, React, Vue**.
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, React & Vue**(Still learning).
 - Backend development using **PHP, Node.JS(Still learning)**.
 - Making for **Relational Database Management Systems**.
 - Desktop application development using **Flutter** (Still learning).
 - Mobile application development using **Flutter, React Native & Android**(Still learning).
-- Creating scalable cloud architecture using **AWS Cloud**.(Still learning)
+- Creating scalable cloud architecture using **AWS Cloud**(Still learning).
 - Solving Data structure and algorithm questions in **C, Java and Python**.
 - I use this technologies **MongoDB, AWS Cloud, Heroku, Netlify**
 ## 🧡 My passions
