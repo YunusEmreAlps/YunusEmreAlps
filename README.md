@@ -9,24 +9,6 @@
   </a>
 </p>
 
-<p align="center" style="margin: -20px 0 30px">
-   <a href="http://populartechtalks.herokuapp.com/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/react.svg" alt="blog" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/yunus192alpu?hr_r=1" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yunus-emre-alpu/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:yunus192alpu@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
-  </a>
-</p>
-
 I solve problems in creative ways. At Konya NEU, where I am completing my junior year in the College of Engineering, I have learned the importance of applying classical strategies to modern-day projects.Software engineering is never ending puzzle that I am passionately in solving. This passion carried me through my education purdue.
 
 <div align="center">
@@ -35,6 +17,12 @@ I solve problems in creative ways. At Konya NEU, where I am completing my junior
 </div>
 
 A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
+
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yunus192alpu)
+[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yunusemrealps)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-alpu/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yunusemrealpu/?hl=en) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunus192alpu@gmail.com)
 
 ## 👯 Communities
 * DSC Member.
