@@ -45,11 +45,10 @@ Talk to me about:
 ## 🧡 My passions
 - Technology and Software
 - Science 
-- Machine learning
+- Cloud Computing
 - Books 
-- Basketball | Formula1
+- Basketball & Formula1
 - Music ([spotify](https://open.spotify.com/user/njyreyw7hmqlbaza020l9sapg))
-- Nutrition
 - Nature
 ## No Brakes!! 🤔
 - 💬 Ask me about anything an everything.
