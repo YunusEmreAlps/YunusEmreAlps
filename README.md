@@ -31,7 +31,8 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 * [Mentee & Mentor](https://findmentor.network/peer/yunus-emre-alpu) at Find Mentor
 * Member at Üretken Akademi & Mentornity.
 * Member at Solutions Challenge Incubation Program (Touch App)
-* Volunteer at T3 Vakfı.
+* Volunteer at T3 Science Workshops.
+* [Kommunity.com](https://kommunity.com/@yunusemrealpu/communities) 
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, React & Vue**(Still learning).
