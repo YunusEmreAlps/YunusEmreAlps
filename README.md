@@ -56,15 +56,6 @@ Talk to me about:
 - 📫 Read my blogs: [Popular Tech Talks](http://populartechtalks.herokuapp.com/).
 - 🎯 Portfolio site: [Portfolio](https://yunusemrealpu.netlify.app/).
 - ⚡ Fun fact: Internet users blink less than usual.
-
-## 📈 Github Stats
-
-<a href="https://github.com/YunusEmreAlps/YunusEmreAlps">
- <img alt="Yunus-Emre-Alpu's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=YunusEmreAlps&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</a>
-<a href="https://github.com/YunusEmreAlps/YunusEmreAlps">
- <img alt="Yunus-Emre-Alpu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunusEmreAlps&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
- </a>
  
  <div align="center">
   <img width="100%" src="https://c.tenor.com/uWmDvE9-__IAAAAd/the-pursuit-of-happiness-will-smith.gif" alt="Life" />
