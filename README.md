@@ -1,6 +1,5 @@
 # Hi, I'm Yunus Emre Alpu
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FYunusEmreAlps.YunusEmreAlps%2Freadme)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <p align="center">
@@ -9,7 +8,7 @@
   </a>
 </p>
 
-I solve problems in creative ways. At Konya NEU, where I am completing my junior year in the College of Engineering, I have learned the importance of applying classical strategies to modern-day projects.Software engineering is never ending puzzle that I am passionately in solving. This passion carried me through my education purdue.
+I solve problems in creative ways. At Konya NEU, where I am completing my junior year in the College of Engineering, I have learned the importance of applying classical strategies to modern-day projects. Software engineering is a never-ending puzzle that I am passionate about solving. This passion carried me through my education process.
 
 <div align="center">
   <img width="" src="https://github-readme-streak-stats.herokuapp.com/?user=YunusEmreAlps" alt="YunusEmreAlps's GitHub Streak" />
@@ -18,6 +17,7 @@ I solve problems in creative ways. At Konya NEU, where I am completing my junior
 
 A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
 
+[![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/10500166/yunus-emre-alpu)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yunus192alpu)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yunusemrealps)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-alpu/) 
@@ -32,23 +32,24 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 * Member at Üretken Akademi & Mentornity.
 * Member at Solutions Challenge Incubation Program (Touch App)
 * Volunteer at T3 Science Workshops.
-* [Kommunity.com](https://kommunity.com/@yunusemrealpu/communities) 
+* [Kommunity.com](https://kommunity.com/@yunusemrealpu/communities)
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, React & Vue**(Still learning).
-- Backend development using **PHP, Node.JS(Still learning)**.
-- Making for **Relational Database Management Systems**.
-- Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter, React Native & Android**(Still learning).
-- Creating scalable cloud architecture using **AWS Cloud**(Still learning).
-- Solving Data structure and algorithm questions in **C, Java and Python**.
-- I use this technologies **MongoDB, AWS Cloud, Heroku, Netlify**
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, React & Vue**.
+- Backend development using **Golang, PHP, Node.JS**.
+- Making for **Relational Database Management Systems(PostreSQL, MySQL, MongoDB, ...)**.
+- Desktop application development using **Flutter**.
+- Mobile application development using **Flutter, React Native & Android**.
+- Creating scalable cloud architecture using **AWS Cloud**.
+- Solving Data structure and algorithm questions in **C, Golang, Java and Python**.
+- I use these technologies **MongoDB, AWS Cloud, Heroku, and Netlify**
 ## 🧡 My passions
 - Technology and Software
 - Science 
 - Cloud Computing
-- Books 
-- Basketball & Formula1
+- Books
+- Running
+- Basketball, NFL(Go Eagles!), Formula 1(Mclaren🟠)
 - Music ([spotify](https://open.spotify.com/user/njyreyw7hmqlbaza020l9sapg))
 - Nature
 ## No Brakes!! 🤔
