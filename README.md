@@ -8,14 +8,14 @@
   </a>
 </p>
 
-I solve problems in creative ways. At Konya NEU, where I am completing my junior year in the College of Engineering, I have learned the importance of applying classical strategies to modern-day projects. Software engineering is a never-ending puzzle that I am passionate about solving. This passion carried me through my education process.
+I solve problems in creative ways. At Konya NEU, where I am completing my junior year in the College of Engineering, I have learned the importance of applying classical strategies to modern-day projects. Software engineering is a never-ending puzzle that I am passionate about solving, and this passion has carried me through my education.
 
 <div align="center">
   <img width="" src="https://github-readme-streak-stats.herokuapp.com/?user=YunusEmreAlps" alt="YunusEmreAlps's GitHub Streak" />
   <br>
 </div>
 
-A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
+I aim to make a positive impact through software, helping developers by creating useful content like libraries and articles. I also actively contribute to StackOverflow, GitHub Discussions, and other developer communities.
 
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/10500166/yunus-emre-alpu)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yunus192alpu)
@@ -35,8 +35,8 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 * [Kommunity.com](https://kommunity.com/@yunusemrealpu/communities)
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, React & Vue**.
-- Backend development using **Golang, PHP, Node.JS**.
+- Front-end development using **HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, and Vue**.
+- Backend development using **Golang, PHP, Node.JS, Spring Boot(Maven and Gradle)**.
 - Making for **Relational Database Management Systems(PostreSQL, MySQL, MongoDB, ...)**.
 - Desktop application development using **Flutter**.
 - Mobile application development using **Flutter, React Native & Android**.
@@ -53,8 +53,7 @@ Talk to me about:
 - Music ([spotify](https://open.spotify.com/user/njyreyw7hmqlbaza020l9sapg))
 - Nature
 ## No Brakes!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Popular Tech Talks](http://populartechtalks.herokuapp.com/).
+- 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://yunusemrealpu.netlify.app/).
 - ⚡ Fun fact: Internet users blink less than usual.
  
