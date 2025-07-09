@@ -25,6 +25,7 @@ I aim to make a positive impact through software, helping developers by creating
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yunusemrealpu/?hl=en)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/njyreyw7hmqlbaza020l9sapg)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunus192alpu@gmail.com)
+[![Self.so Badge](https://img.shields.io/badge/Self.so-000000?style=for-the-badge&logo=self.so&logoColor=white)](https://www.self.so/yunus-emre-alpu)
 
 ## 👯 Communities
 * DSC Member.
