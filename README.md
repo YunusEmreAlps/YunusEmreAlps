@@ -1,6 +1,11 @@
+
 # Hi 👋 
 
-I build systems that solve real-world problems from food waste reduction to large-scale e-learning platforms, driven by continuous growth and clear communication.  I'm currently trying to decrease the WTF's in my life, projects and work.
+I build systems that solve real-world problems, from food waste reduction to large-scale e-learning platforms, driven by continuous growth and clear communication.  I'm currently trying to decrease the WTF's in my life, projects and work.
+
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
+</div>
 
 ## Technologies
 
